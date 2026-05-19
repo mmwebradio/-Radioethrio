@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ράδιο Αιθριοσκόπιο</title>
+  <link rel="icon" type="image/x-icon" href="Alafroiskiotosshort.jpg">
+  <style>
+    body {
+      font-family: 'BPtypewrite', MMtype, Arial, sans-serif;
+      background-image: url('bi2.jpg'); /* Replace with your image URL */
+      background-size: 150% auto;
+      background-position: center;
+      background-color: #18392b; /* Background color for the body */
+      color: #000000; /* Text color for the body */
+    }
+  </style>
+</head>
+<body><p>
+    <img src="greenhandgif.gif" style="width: 69px; height: auto;"/>
+    <a href="index.html"> back </a>
+    <br>
+  </p>
+  <center><img src="aitheioskopio fm poster 2.jpg" align="center" style="width: 500px; height: auto;"/>
+  </center>
+</body>
+</html>
